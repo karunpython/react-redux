@@ -2,6 +2,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+https://github.com/zalmoxisus/redux-devtools-extension
+
+https://www.youtube.com/watch?v=CVpUuw9XSjY
+
 In the project directory, you can run:
 
 ### `npm start`
